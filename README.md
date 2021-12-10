@@ -1,0 +1,2 @@
+# mineria-
+repositorio de mineria 
